@@ -72,6 +72,8 @@ npm run dev
 - Improve UI/UX
 - Add dark mode
 - Support voice input
+## Screenshot
 
+![Chatbot Screenshot](website.png)
 
 
